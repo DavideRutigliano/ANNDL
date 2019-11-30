@@ -1,14 +1,14 @@
 # ANNDL Challenge
 
-* NAME_1: Davide
-* LAST-NAME_1: Rutigliano
-* STUDENT-ID_1: 10610282 (903616)
+* NAME_1: __Davide__
+* LAST-NAME_1: __Rutigliano__
+* STUDENT-ID_1: __10610282 (903616)__
 
-* NAME_2: Claudio
-* LAST-NAME_2: Ferrante
-* STUDENT-ID_2: 10637447 (903417)
+* NAME_2: __Claudio__
+* LAST-NAME_2: __Ferrante__
+* STUDENT-ID_2: __10637447 (903417)__
 
-* LEADERBOARD NICKNAME: LAZCoderS
+* LEADERBOARD NICKNAME: __LAZCoderS__
 
 ## ANNDL Classification (challenge #1)
 
