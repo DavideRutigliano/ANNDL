@@ -12,7 +12,7 @@
 
 ## ANNDL Classification (challenge #1)
 
-[Notebook on colab](https://colab.research.google.com/drive/1h137KJDl6InCudWiA7nCWqaxew-JULAL)
+[Notebook on colab]https://colab.research.google.com/drive/1jrmlxVuf0dM_M7X2GLp5xV3OR3_ps-uW)
 
 ## ANNDL Segmentation (challenge #2)
 
