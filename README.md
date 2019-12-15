@@ -15,5 +15,6 @@
 [Notebook on colab](https://colab.research.google.com/drive/1jrmlxVuf0dM_M7X2GLp5xV3OR3_ps-uW)
 
 ## ANNDL Segmentation (challenge #2)
+[Notebook on colab](https://colab.research.google.com/drive/1uw9_9na_ddv1EDCEUNEqK66RNDAhDKEG)
 
 ## ANNDL ?? (challenge #3)
